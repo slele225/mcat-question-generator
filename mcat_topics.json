@@ -1,0 +1,2186 @@
+[
+  {
+    "topic_id": "BB_1A_001",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Amino Acid Fundamentals",
+    "content_to_test": "Test understanding of the absolute configuration at the alpha position of amino acids, their behavior as dipolar ions (zwitterions), and their classification as acidic, basic, hydrophobic, or hydrophilic. ",
+    "tags": [
+      "Biochemistry",
+      "Amino Acids",
+      "Structure"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_002",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Amino Acid Reactions",
+    "content_to_test": "Test knowledge of key amino acid reactions, including sulfur linkage formation for cysteine and cystine, the formation of peptide linkages in polypeptides and proteins, and the process of peptide hydrolysis. ",
+    "tags": [
+      "Biochemistry",
+      "Amino Acids",
+      "Reactions"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_003",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Primary and Secondary Protein Structure",
+    "content_to_test": "Test knowledge of the primary structure of proteins (amino acid sequence) and the secondary structure of proteins (alpha-helices and beta-pleated sheets). ",
+    "tags": [
+      "Biochemistry",
+      "Proteins",
+      "Structure"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_004",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Tertiary and Quaternary Protein Structure",
+    "content_to_test": "Test knowledge of the tertiary structure of proteins, including the specific role of proline, cystine (disulfide bonds), and hydrophobic bonding, as well as the characteristics and significance of quaternary protein structure. ",
+    "tags": [
+      "Biochemistry",
+      "Proteins",
+      "Structure"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_005",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Protein Conformational Stability",
+    "content_to_test": "Test understanding of the factors contributing to protein conformational stability, specifically denaturing and folding processes, hydrophobic interactions, and the role of the solvation layer (entropy) in protein folding. ",
+    "tags": [
+      "Biochemistry",
+      "Proteins",
+      "Thermodynamics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_006",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Protein Separation Techniques",
+    "content_to_test": "Test the principles and applications of protein separation techniques, focusing on the concept of the isoelectric point (pI) and the mechanism of electrophoresis. ",
+    "tags": [
+      "Biochemistry",
+      "Laboratory Techniques",
+      "Proteins"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_007",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Enzymatic Catalysis and Specificity",
+    "content_to_test": "Test understanding of the function of enzymes in catalyzing biological reactions, their classification by reaction type, their role in the reduction of activation energy, and the basis of substrate specificity. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Catalysis"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_008",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Enzyme-Substrate Models",
+    "content_to_test": "Test knowledge of the theoretical models of enzyme-substrate interaction, specifically the Active Site Model and the Induced-Fit Model, as well as the broader mechanism of catalysis. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Substrates"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_009",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Enzyme Cofactors and Environment",
+    "content_to_test": "Test knowledge of enzyme cofactors and coenzymes (including water-soluble vitamins) and how local environmental conditions (like pH and temperature) affect overall enzyme activity. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Cofactors"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_010",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Enzyme Kinetics",
+    "content_to_test": "Test understanding of enzyme kinetics, including general catalysis velocity principles, the assumptions and equations of Michaelis-Menten kinetics, and the concept of cooperativity. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Kinetics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_011",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Enzyme Inhibition and Feedback",
+    "content_to_test": "Test knowledge of feedback regulation and the mechanisms and kinetic effects of different types of enzyme inhibition: competitive, noncompetitive, mixed, and uncompetitive inhibition. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Regulation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1A_012",
+    "category": "Foundational Concept 1",
+    "subcategory": "1A: Structure and function of proteins and their constituent amino acids",
+    "title": "Regulatory Enzymes",
+    "content_to_test": "Test understanding of regulatory enzymes, including the structural and functional features of allosteric enzymes, covalently modified enzymes, and zymogens. ",
+    "tags": [
+      "Biochemistry",
+      "Enzymes",
+      "Regulation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_001",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Nucleic Acid Structure",
+    "content_to_test": "Test knowledge of nucleotide and nucleoside composition, the sugar-phosphate backbone, pyrimidine and purine residues, and the Watson-Crick model of the DNA double helix including base pairing specificity. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Nucleic Acids"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_002",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "DNA Replication Mechanism",
+    "content_to_test": "Test understanding of the mechanism of DNA replication, including the separation of strands, specific coupling of free nucleic acids, the semiconservative nature of replication, origins of replication, and replicating the ends of DNA molecules. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "DNA Replication"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_003",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Genetic Code and Central Dogma",
+    "content_to_test": "Test knowledge of the Central Dogma, the triplet code, codon-anticodon relationships, the degenerate nature of the code, wobble pairing, missense/nonsense codons, and initiation/termination codons. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Central Dogma"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_004",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Transcription Mechanism",
+    "content_to_test": "Test understanding of the mechanism of transcription, including the specific roles of messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA). ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Transcription"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_005",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "mRNA Processing in Eukaryotes",
+    "content_to_test": "Test knowledge of post-transcriptional mRNA processing in eukaryotes, including the roles of introns, exons, spliceosomes, snRNPs, and snRNAs, as well as the functional and evolutionary importance of introns. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Transcription"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_006",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Translation and Post-Translational Modification",
+    "content_to_test": "Test understanding of the translation process, including the structure and function of ribosomes, roles of initiation and termination co-factors, and subsequent post-translational modifications of proteins. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Translation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_007",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Eukaryotic Chromosome Organization",
+    "content_to_test": "Test knowledge of eukaryotic chromosome organization, focusing on chromosomal proteins, single copy versus repetitive DNA, supercoiling, heterochromatin versus euchromatin, and the structures of telomeres and centromeres. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Chromosomes"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_008",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Gene Expression Control in Prokaryotes",
+    "content_to_test": "Test understanding of the control of gene expression in prokaryotes, specifically focusing on the Operon Concept (Jacob-Monod Model), mechanisms of gene repression, and positive control in bacteria. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Gene Expression"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_009",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Gene Expression Control in Eukaryotes",
+    "content_to_test": "Test knowledge of eukaryotic gene expression control, including transcriptional regulation via DNA binding proteins and transcription factors, gene amplification and duplication, and post-transcriptional control. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Gene Expression"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_010",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Epigenetics and Cancer Biology",
+    "content_to_test": "Test understanding of cancer as a failure of normal cellular controls (oncogenes, tumor suppressor genes), as well as epigenetic controls like regulation of chromatin structure, DNA methylation, and the role of noncoding RNAs. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Cancer"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_011",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "Recombinant DNA: Cloning and Libraries",
+    "content_to_test": "Test knowledge of recombinant DNA technology focusing on gene cloning, the use of restriction enzymes, the creation of DNA libraries, generation of cDNA, hybridization, and expressing cloned genes. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Biotechnology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1B_012",
+    "category": "Foundational Concept 1",
+    "subcategory": "1B: Transmission of genetic information from the gene to the protein",
+    "title": "DNA Analysis Techniques",
+    "content_to_test": "Test understanding of key laboratory techniques in biotechnology, including the polymerase chain reaction (PCR), gel electrophoresis, Southern blotting, DNA sequencing, and methods for analyzing gene expression or determining gene function. ",
+    "tags": [
+      "Biology",
+      "Laboratory Techniques",
+      "Biotechnology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1C_001",
+    "category": "Foundational Concept 1",
+    "subcategory": "1C: Transmission of heritable information from generation to generation and the processes that increase genetic diversity",
+    "title": "Mendelian Concepts Fundamentals",
+    "content_to_test": "Test knowledge of classical Mendelian concepts, including phenotype and genotype, gene and locus definitions, single and multiple alleles, homozygosity and heterozygosity, wild-type, recessiveness, complete dominance, co-dominance, incomplete dominance, leakage, penetrance, expressivity, and hybridization viability. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Mendelian Genetics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1C_002",
+    "category": "Foundational Concept 1",
+    "subcategory": "1C: Transmission of heritable information from generation to generation and the processes that increase genetic diversity",
+    "title": "Meiosis and Genetic Variability",
+    "content_to_test": "Test understanding of meiosis and factors affecting genetic variability, including the segregation of genes, independent assortment, linkage, recombination, single and double crossovers, synaptonemal complex, tetrad formation, sex-linked characteristics, sex determination, and extranuclear inheritance. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Meiosis"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1C_003",
+    "category": "Foundational Concept 1",
+    "subcategory": "1C: Transmission of heritable information from generation to generation and the processes that increase genetic diversity",
+    "title": "Genetic Mutations",
+    "content_to_test": "Test knowledge of mutations, including general concepts of DNA sequence errors, types of mutations (random, translation/transcription errors, base substitutions, inversions, additions, deletions, translocations, mispairings), advantageous vs. deleterious impacts, inborn errors of metabolism, and the relationship of mutagens to carcinogens. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Mutations"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1C_004",
+    "category": "Foundational Concept 1",
+    "subcategory": "1C: Transmission of heritable information from generation to generation and the processes that increase genetic diversity",
+    "title": "Analytic Methods in Genetics",
+    "content_to_test": "Test understanding of analytical methods in population and classical genetics, specifically the Hardy-Weinberg Principle, testcross applications (parental, F1, and F2 generations), gene mapping using crossover frequencies, and statistical methods (biometry). ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Population Genetics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1C_005",
+    "category": "Foundational Concept 1",
+    "subcategory": "1C: Transmission of heritable information from generation to generation and the processes that increase genetic diversity",
+    "title": "Evolution and Natural Selection",
+    "content_to_test": "Test knowledge of evolutionary theory, including natural selection, fitness, selection by differential reproduction, natural and group selection concepts, speciation, polymorphism, adaptation, specialization, inbreeding, outbreeding, bottlenecks, and evolutionary time measured by genome changes. ",
+    "tags": [
+      "Biology",
+      "Genetics",
+      "Evolution"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_001",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Principles of Bioenergetics",
+    "content_to_test": "Test understanding of the principles of bioenergetics and thermodynamics, focusing on the equilibrium constant (Keq), its relationship with free energy (delta G), Le Chatelier's Principle, endothermic vs. exothermic reactions, and spontaneous reactions linked to standard free energy. ",
+    "tags": [
+      "Biochemistry",
+      "Thermodynamics",
+      "Metabolism"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_002",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Phosphoryl Group Transfers and Redox",
+    "content_to_test": "Test knowledge of ATP hydrolysis (delta G << 0), ATP group transfers, and biological oxidation-reduction including half-reactions and soluble electron carriers (such as flavoproteins). ",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Redox"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_003",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Carbohydrate Structure and Function",
+    "content_to_test": "Test knowledge of carbohydrates, including nomenclature, classification, and common names. Focus on absolute configuration, cyclic structure, conformations of hexoses, epimers, anomers, hydrolysis of glycosidic linkages, and the functions of key monosaccharides, disaccharides, and polysaccharides.",
+    "tags": [
+      "Biochemistry",
+      "Carbohydrates",
+      "Metabolism"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_004",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Glycolysis and Fermentation",
+    "content_to_test": "Test knowledge of glycolysis (aerobic) including substrates and products, feeder pathways such as glycogen and starch metabolism, and the process of fermentation (anaerobic glycolysis).",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Glycolysis"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_005",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Gluconeogenesis and Pentose Phosphate Pathway",
+    "content_to_test": "Test knowledge of gluconeogenesis and the pentose phosphate pathway, including their substrates, products, and their net molecular and energetic results within the broader context of cellular respiration.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Cellular Respiration"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_006",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Metabolic Regulation and Glycogen",
+    "content_to_test": "Test understanding of metabolic regulation principles, focusing on the maintenance of a dynamic steady state, regulation of glycolysis and gluconeogenesis, metabolism of glycogen (including regulation of synthesis and breakdown), allosteric and hormonal control, and the analysis of metabolic control.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Regulation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_007",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Citric Acid Cycle",
+    "content_to_test": "Test knowledge of the Citric Acid Cycle, including acetyl-CoA production, specific reactions of the cycle with their substrates and products, overall regulation of the cycle, and the net molecular and energetic results of these respiration processes.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Citric Acid Cycle"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_008",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Fatty Acid Metabolism",
+    "content_to_test": "Test understanding of fatty acid metabolism, including the structural description of fatty acids, processes of digestion, mobilization, and transport of fats, the oxidation of saturated and unsaturated fatty acids, and the formation and role of ketone bodies.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Lipids"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_009",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Lipid and Protein Anabolism",
+    "content_to_test": "Test knowledge of lipid and protein anabolism, specifically the anabolism of fats, nontemplate synthesis (biosynthesis of lipids and polysaccharides), and the fundamental metabolism of proteins.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Anabolism"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_010",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Oxidative Phosphorylation",
+    "content_to_test": "Test understanding of oxidative phosphorylation and the electron transport chain (ETC). Topics include ETC substrates and products, electron transfer in mitochondria (NADH, NADPH, flavoproteins, cytochromes), ATP synthase, chemiosmotic coupling, proton motive force, and the roles of mitochondria in apoptosis and oxidative stress.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Oxidative Phosphorylation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_1D_011",
+    "category": "Foundational Concept 1",
+    "subcategory": "1D: Principles of bioenergetics and fuel molecule metabolism",
+    "title": "Hormonal Regulation of Metabolism",
+    "content_to_test": "Test knowledge of the hormonal regulation and integration of metabolism, including higher-level integration of hormone structure and function, tissue-specific metabolism, hormonal regulation of fuel metabolism, and the regulation of body mass and obesity.",
+    "tags": [
+      "Biochemistry",
+      "Metabolism",
+      "Endocrinology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_001",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Plasma Membrane Composition and Dynamics",
+    "content_to_test": "Test understanding of the plasma membrane, including its general function in cell containment, composition of lipid components (phospholipids, steroids, waxes), protein components, the fluid mosaic model, and membrane dynamics.",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Plasma Membrane"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_002a",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Solute Transport and Thermodynamics",
+    "content_to_test": "Test thermodynamic considerations of transport, osmosis, colligative properties (osmotic pressure), passive transport, active transport, and the sodium/potassium pump.",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Membrane Transport"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_002b",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Membrane Dynamics and Intercellular Junctions",
+    "content_to_test": "Test knowledge of membrane channels, membrane potential, membrane receptors, exocytosis, endocytosis, and intercellular junctions (gap junctions, tight junctions, desmosomes).",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Cellular Junctions"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_003",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Eukaryotic Organelles",
+    "content_to_test": "Test understanding of the defining characteristics of eukaryotic cells and membrane-bound organelles. Topics include the nucleus (compartmentalization, nucleolus, nuclear envelope, pores), mitochondria (ATP production, inner/outer membrane structure, self-replication), lysosomes, endoplasmic reticulum (rough vs smooth, roles in biosynthesis), Golgi apparatus, and peroxisomes.",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Organelles"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_004",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Cytoskeleton Elements",
+    "content_to_test": "Test knowledge of the eukaryotic cytoskeleton, including its general function in support and movement, the composition and role of microfilaments (cleavage and contractility), microtubules (support, transport, cilia, flagella, centrioles), and intermediate filaments.",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Cytoskeleton"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2A_005",
+    "category": "Foundational Concept 2",
+    "subcategory": "2A: Assemblies of molecules, cells, and groups of cells within single cellular and multicellular organisms",
+    "title": "Eukaryotic Tissue Types",
+    "content_to_test": "Test knowledge of the tissues formed from eukaryotic cells, differentiating between the characteristics and functions of epithelial cells and connective tissue cells.",
+    "tags": [
+      "Biology",
+      "Anatomy",
+      "Histology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2B_001",
+    "category": "Foundational Concept 2",
+    "subcategory": "2B: The structure, growth, physiology, and genetics of prokaryotes and viruses",
+    "title": "Prokaryotic Classification and Structure",
+    "content_to_test": "Test understanding of cell theory and the classification and structure of prokaryotic cells. Topics include the history and impact of cell theory, prokaryotic domains (Archaea, Bacteria), major bacterial shapes (bacilli, spirilli, cocci), and distinguishing features like the lack of nuclear membrane and organelles, the presence of a cell wall, and flagellar propulsion.",
+    "tags": [
+      "Biology",
+      "Microbiology",
+      "Prokaryotes"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2B_002",
+    "category": "Foundational Concept 2",
+    "subcategory": "2B: The structure, growth, physiology, and genetics of prokaryotes and viruses",
+    "title": "Prokaryotic Growth and Genetics",
+    "content_to_test": "Test knowledge of the growth, physiology, and genetics of prokaryotic cells. Topics include reproduction by fission, exponential growth, anaerobic/aerobic variants, parasitic/symbiotic relationships, chemotaxis, plasmids, transformation, conjugation, and transposons.",
+    "tags": [
+      "Biology",
+      "Microbiology",
+      "Genetics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2B_003",
+    "category": "Foundational Concept 2",
+    "subcategory": "2B: The structure, growth, physiology, and genetics of prokaryotes and viruses",
+    "title": "Virus Structure and Life Cycle",
+    "content_to_test": "Test understanding of virus structure and the viral life cycle. Topics include structural characteristics (enveloped/nonenveloped, DNA/RNA content, size relative to cells), the lack of organelles/nucleus, generalized phage and animal virus life cycles, host penetration, host machinery hijacking, self-assembly, transduction, retroviruses (HIV), and subviral particles (prions, viroids).",
+    "tags": [
+      "Biology",
+      "Virology",
+      "Microbiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2C_001",
+    "category": "Foundational Concept 2",
+    "subcategory": "2C: Processes of cell division, differentiation, and specialization",
+    "title": "Mitosis and Cell Cycle Control",
+    "content_to_test": "Test knowledge of mitosis and the cell cycle. Topics include mitotic phases, mitotic structures (centrioles, asters, spindles, chromatids, centromeres, kinetochores), chromosome movement mechanisms, phases of the cell cycle (G0, G1, S, G2, M), growth arrest, cell cycle control, and the loss of controls in cancer (oncogenes, apoptosis).",
+    "tags": [
+      "Biology",
+      "Cell Biology",
+      "Cell Cycle"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2C_002",
+    "category": "Foundational Concept 2",
+    "subcategory": "2C: Processes of cell division, differentiation, and specialization",
+    "title": "Gametogenesis and Reproductive Sequence",
+    "content_to_test": "Test understanding of the reproductive system, including gametogenesis by meiosis, differences between ovum and sperm (formation, morphology, relative genetic contributions), and the reproductive sequence (fertilization, implantation, development, birth).",
+    "tags": [
+      "Biology",
+      "Reproduction",
+      "Meiosis"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2C_003",
+    "category": "Foundational Concept 2",
+    "subcategory": "2C: Processes of cell division, differentiation, and specialization",
+    "title": "Early Embryogenesis",
+    "content_to_test": "Test knowledge of early embryogenesis, including fertilization, cleavage, blastula formation, gastrulation, the first cell movements, formation of primary germ layers (endoderm, mesoderm, ectoderm) and their major derived structures, neurulation, neural crest, and environment-gene interactions during development.",
+    "tags": [
+      "Biology",
+      "Embryology",
+      "Development"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_2C_004",
+    "category": "Foundational Concept 2",
+    "subcategory": "2C: Processes of cell division, differentiation, and specialization",
+    "title": "Mechanisms of Development",
+    "content_to_test": "Test understanding of the mechanisms of development, including cell specialization (determination, differentiation, tissue types), cell-cell communication, cell migration, pluripotency of stem cells, gene regulation in development, programmed cell death, regenerative capacity, and senescence/aging.",
+    "tags": [
+      "Biology",
+      "Development",
+      "Stem Cells"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3A_001",
+    "category": "Foundational Concept 3",
+    "subcategory": "3A: Structure and functions of the nervous and endocrine systems and ways these systems coordinate the organ systems",
+    "title": "Nervous System Organization",
+    "content_to_test": "Test knowledge of the structure and function of the nervous system, including high-level control and integration of body systems, sensor and effector neurons, sympathetic and parasympathetic antagonistic control, reflexes (feedback loop, reflex arc), and the role of the spinal cord and supraspinal circuits.",
+    "tags": [
+      "Biology",
+      "Nervous System",
+      "Anatomy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3A_002",
+    "category": "Foundational Concept 3",
+    "subcategory": "3A: Structure and functions of the nervous and endocrine systems and ways these systems coordinate the organ systems",
+    "title": "Nerve Cell Structure and Function",
+    "content_to_test": "Test understanding of nerve cell structure and function, including the cell body, dendrites, axon structure (myelin sheath, Schwann cells, Nodes of Ranvier), impulse propagation, synapses, neurotransmitters, resting potential, action potential (threshold, all-or-none, sodium-potassium pump, summation/frequency), and glial cells.",
+    "tags": [
+      "Biology",
+      "Neurobiology",
+      "Neurons"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3A_003",
+    "category": "Foundational Concept 3",
+    "subcategory": "3A: Structure and functions of the nervous and endocrine systems and ways these systems coordinate the organ systems",
+    "title": "Neuro-Electrochemistry and Biosignaling",
+    "content_to_test": "Test knowledge of electrochemistry and biosignaling in the nervous system. Topics include the use of the Nernst equation for concentration cells, gated ion channels (voltage-gated and ligand-gated), receptor enzymes, and G protein-coupled receptors.",
+    "tags": [
+      "Biology",
+      "Neurobiology",
+      "Biosignaling"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3A_004",
+    "category": "Foundational Concept 3",
+    "subcategory": "3A: Structure and functions of the nervous and endocrine systems and ways these systems coordinate the organ systems",
+    "title": "Endocrine System and Hormones",
+    "content_to_test": "Test understanding of the endocrine system's hormones and their sources, including the definitions of endocrine glands and hormones, specific chemical control at the cell/tissue/organ level, major endocrine glands and their products, major types of hormones, and neuroendocrinology (the relation between neurons and hormonal systems).",
+    "tags": [
+      "Biology",
+      "Endocrine System",
+      "Hormones"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3A_005",
+    "category": "Foundational Concept 3",
+    "subcategory": "3A: Structure and functions of the nervous and endocrine systems and ways these systems coordinate the organ systems",
+    "title": "Mechanisms of Hormone Action",
+    "content_to_test": "Test knowledge of the mechanisms of hormone action, including cellular mechanisms, transport of hormones via blood supply, specificity of hormones to target tissues, integration with the nervous system via feedback control, and regulation by second messengers.",
+    "tags": [
+      "Biology",
+      "Endocrine System",
+      "Cellular Signaling"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_001",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Respiratory System Functions and Structure",
+    "content_to_test": "Test understanding of the general functions of the respiratory system, including gas exchange, thermoregulation, and protection against disease via particulate filtration (nasal hairs, mucus-cilia system). Also test the structure of the lungs and alveoli.",
+    "tags": [
+      "Biology",
+      "Respiratory System",
+      "Anatomy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_002",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Breathing Mechanisms",
+    "content_to_test": "Test knowledge of breathing mechanisms, including the functional roles of the diaphragm and rib cage, differential pressure generation, and the effects of lung resiliency and surface tension.",
+    "tags": [
+      "Biology",
+      "Respiratory System",
+      "Physiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_003",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Gas Exchange and pH Control",
+    "content_to_test": "Test understanding of alveolar gas exchange, including the mechanisms of diffusion, differential partial pressure, and Henry's Law. Also test the respiratory system's role in pH control and its regulation by nervous control (specifically CO2 sensitivity).",
+    "tags": [
+      "Biology",
+      "Respiratory System",
+      "Gas Exchange"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_004",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Circulatory System and Heart Anatomy",
+    "content_to_test": "Test knowledge of the circulatory system's broad functions (circulation of oxygen, nutrients, hormones, ions, fluids, waste removal, and thermoregulation), as well as the structure and function of the four-chambered heart, including endothelial cells and the concepts of systolic and diastolic pressure.",
+    "tags": [
+      "Biology",
+      "Circulatory System",
+      "Cardiovascular"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_005",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Blood Vessels and Fluid Dynamics",
+    "content_to_test": "Test understanding of the arterial and venous systems (arteries, arterioles, venules, veins), focusing on structural and functional differences, pressure and flow characteristics, capillary beds, mechanisms of gas and solute exchange, mechanisms of heat exchange, and the source of peripheral resistance.",
+    "tags": [
+      "Biology",
+      "Circulatory System",
+      "Vessels"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_006",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Blood Composition and Transport",
+    "content_to_test": "Test knowledge of blood composition (plasma, chemicals, blood cells), erythrocyte production and destruction (role of spleen and bone marrow), regulation of plasma volume, coagulation and clotting mechanisms, and oxygen/carbon dioxide transport by hemoglobin (including oxygen affinity and nervous/endocrine control).",
+    "tags": [
+      "Biology",
+      "Circulatory System",
+      "Blood"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_007",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Lymphatic System",
+    "content_to_test": "Test understanding of the structure and major functions of the lymphatic system, including the equalization of fluid distribution, transport of proteins and large glycerides, production of lymphocytes for immune reactions, and the return of materials to the blood.",
+    "tags": [
+      "Biology",
+      "Lymphatic System",
+      "Immunity"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_008",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Immune System Cells and Organs",
+    "content_to_test": "Test knowledge of the immune system's cellular organization, specifically the differences between innate (nonspecific) and adaptive (specific) immunity. Test the roles of adaptive cells (T-lymphocytes, B-lymphocytes), innate cells (macrophages, phagocytes), and related tissues (bone marrow, spleen, thymus, lymph nodes).",
+    "tags": [
+      "Biology",
+      "Immune System",
+      "Cells"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_009",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Antigens, Antibodies, and Recognition",
+    "content_to_test": "Test understanding of the concepts of antigens and antibodies, including antigen presentation, clonal selection, antigen-antibody recognition, the structural components of the antibody molecule, the mechanism of recognizing self vs. nonself (and autoimmune diseases), and the major histocompatibility complex (MHC).",
+    "tags": [
+      "Biology",
+      "Immune System",
+      "Antibodies"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_010",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Upper Digestive Tract and Accessory Organs",
+    "content_to_test": "Test knowledge of the upper digestive system and accessory organs. Topics include saliva function, esophageal transport, stomach roles (storage, churning, low pH, gastric juice, enzyme production), liver structure and function (bile production, blood glucose regulation, detoxification), gallbladder storage, and pancreatic enzyme production.",
+    "tags": [
+      "Biology",
+      "Digestive System",
+      "Gastrointestinal"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_011",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Lower Digestive Tract and GI Control",
+    "content_to_test": "Test understanding of the lower digestive tract and system control. Topics include the small intestine (absorption, villi structure/function, enzyme production, stomach acid neutralization, subdivisions), large intestine (water absorption, bacterial flora), rectum, and the muscular (peristalsis) and endocrine/nervous (enteric nervous system) control of digestion.",
+    "tags": [
+      "Biology",
+      "Digestive System",
+      "Gastrointestinal"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_012a",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Excretory System: Homeostasis and Gross Anatomy",
+    "content_to_test": "Test knowledge of the excretory system's roles in homeostasis (blood pressure, osmoregulation, acid-base balance, removal of soluble nitrogenous waste) and the gross structure of the kidney (cortex, medulla).",
+    "tags": [
+      "Biology",
+      "Excretory System",
+      "Renal"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_012b",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Nephron Structure and Function",
+    "content_to_test": "Test the detailed functional anatomy of the nephron, including the glomerulus, Bowman's capsule, proximal tubule, loop of Henle, distal tubule, and collecting duct.",
+    "tags": [
+      "Biology",
+      "Excretory System",
+      "Nephron"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_013",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Urine Formation and Osmoregulation",
+    "content_to_test": "Test understanding of the physiological formation of urine, including glomerular filtration, secretion and reabsorption of solutes, concentration of urine via the counter-current multiplier mechanism, storage/elimination (ureter, bladder, urethra), and general osmoregulation via capillary reabsorption.",
+    "tags": [
+      "Biology",
+      "Excretory System",
+      "Physiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_014",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Reproductive System Structure and Function",
+    "content_to_test": "Test knowledge of the male and female reproductive systems, including structures (gonads, genitalia) and their differences, hormonal control of reproduction, male and female sexual development, the female reproductive cycle, pregnancy, parturition, lactation, and the integration of these processes with nervous control.",
+    "tags": [
+      "Biology",
+      "Reproductive System",
+      "Anatomy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_015",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Muscle System Organization",
+    "content_to_test": "Test understanding of the muscle system's overall functions (support, mobility, peripheral circulatory assistance, thermoregulation/shivering reflex) and the structural differences between the three basic muscle types: striated, smooth, and cardiac. Also test oxygen debt, fatigue, and nervous control (motor neurons, neuromuscular junction, sympathetic/parasympathetic innervation).",
+    "tags": [
+      "Biology",
+      "Muscle System",
+      "Anatomy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_016",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Muscle Cell Contraction Mechanisms",
+    "content_to_test": "Test knowledge of specialized muscle cells, specifically structural characteristics of different muscle types, the abundance of mitochondria in red muscle cells, the organization of contractile elements (actin, myosin, crossbridges, sliding filament model), sarcomere structure (I and A bands, M and Z lines, H zone), the presence of troponin and tropomyosin, and calcium regulation of contraction.",
+    "tags": [
+      "Biology",
+      "Muscle System",
+      "Cell Biology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_017",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Skeletal System Structure and Function",
+    "content_to_test": "Test understanding of the skeletal system's functions (structural rigidity, support, calcium storage, physical protection) and structure (specialization of bone types, joint structures, endoskeleton vs. exoskeleton, microscopic bone structure, calcium-protein matrix, cellular composition). Also test the structure/function of cartilage, ligaments, tendons, and endocrine control of bone.",
+    "tags": [
+      "Biology",
+      "Skeletal System",
+      "Anatomy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "BB_3B_018",
+    "category": "Foundational Concept 3",
+    "subcategory": "3B: Structure and integrative functions of the main organ systems",
+    "title": "Skin System",
+    "content_to_test": "Test knowledge of the skin system's structure (layer differentiation, cell types, relative impermeability to water) and functions in homeostasis, osmoregulation, and thermoregulation (hair, erectile musculature, fat layer, sweat glands, vasoconstriction/vasodilation). Also test its role in physical protection and related hormonal controls.",
+    "tags": [
+      "Biology",
+      "Skin System",
+      "Integumentary"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4A_001",
+    "category": "Foundational Concept 4",
+    "subcategory": "4A: Translational motion, forces, work, energy, and equilibrium in living systems",
+    "title": "Translational Motion",
+    "content_to_test": "Test knowledge of translational motion, including physics units and dimensions, vector definition and components, vector addition, definitions and calculations of speed, average and instantaneous velocity, and acceleration.",
+    "tags": [
+      "Physics",
+      "Kinematics",
+      "Motion"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4A_002",
+    "category": "Foundational Concept 4",
+    "subcategory": "4A: Translational motion, forces, work, energy, and equilibrium in living systems",
+    "title": "Forces and Equilibrium",
+    "content_to_test": "Test understanding of forces and equilibrium, focusing on Newton's First Law (inertia), Newton's Second Law (F=ma), Newton's Third Law, static and kinetic friction, center of mass, vector analysis of forces acting on a point object, and the calculation of torques and lever arms.",
+    "tags": [
+      "Physics",
+      "Dynamics",
+      "Forces"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4A_003",
+    "category": "Foundational Concept 4",
+    "subcategory": "4A: Translational motion, forces, work, energy, and equilibrium in living systems",
+    "title": "Work and Energy",
+    "content_to_test": "Test knowledge of work and energy in point object systems. Topics include work done by a constant force, mechanical advantage, the Work-Kinetic Energy Theorem, conservative forces, formulas for kinetic energy and potential energy (gravitational and spring), the conservation of energy principle, and power calculation.",
+    "tags": [
+      "Physics",
+      "Work",
+      "Energy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4A_004",
+    "category": "Foundational Concept 4",
+    "subcategory": "4A: Translational motion, forces, work, energy, and equilibrium in living systems",
+    "title": "Periodic Motion",
+    "content_to_test": "Test understanding of periodic motion, specifically identifying and utilizing amplitude, frequency, phase, and the characteristics of transverse and longitudinal waves (including wavelength and propagation speed).",
+    "tags": [
+      "Physics",
+      "Waves",
+      "Periodic Motion"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4B_001",
+    "category": "Foundational Concept 4",
+    "subcategory": "4B: Importance of fluids for the circulation of blood, gas movement, and gas exchange",
+    "title": "Fluid Properties and Hydrostatics",
+    "content_to_test": "Test knowledge of static fluid properties, including density, specific gravity, buoyancy, Archimedes' Principle, hydrostatic pressure definitions, Pascal's Law, and the relationship between hydrostatic pressure and depth.",
+    "tags": [
+      "Physics",
+      "Fluids",
+      "Hydrostatics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4B_002a",
+    "category": "Foundational Concept 4",
+    "subcategory": "4B: Importance of fluids for the circulation of blood, gas movement, and gas exchange",
+    "title": "Fluid Dynamics Principles",
+    "content_to_test": "Test understanding of pure fluid dynamics, including viscosity (Poiseuille Flow), the continuity equation, turbulence, surface tension, Bernoulli's equation, the Venturi effect, and the pitot tube.",
+    "tags": [
+      "Physics",
+      "Fluids",
+      "Fluid Dynamics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4B_002b",
+    "category": "Foundational Concept 4",
+    "subcategory": "4B: Importance of fluids for the circulation of blood, gas movement, and gas exchange",
+    "title": "Cardiovascular Fluid Dynamics",
+    "content_to_test": "Test the physiological application of fluid models to the circulatory system, including arterial and venous pressure, flow characteristics, and the source of peripheral resistance.",
+    "tags": [
+      "Physics",
+      "Biology",
+      "Cardiovascular"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4B_003",
+    "category": "Foundational Concept 4",
+    "subcategory": "4B: Importance of fluids for the circulation of blood, gas movement, and gas exchange",
+    "title": "Ideal Gases",
+    "content_to_test": "Test knowledge of the gas phase, including absolute temperature (Kelvin scale), pressure measurement via mercury barometer, molar volume at 0 degrees Celsius and 1 atm, and the definition and application of the Ideal Gas Law (including Boyle's Law, Charles' Law, and Avogadro's Law).",
+    "tags": [
+      "Chemistry",
+      "Physics",
+      "Gases"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4B_004",
+    "category": "Foundational Concept 4",
+    "subcategory": "4B: Importance of fluids for the circulation of blood, gas movement, and gas exchange",
+    "title": "Kinetic Molecular Theory and Real Gases",
+    "content_to_test": "Test understanding of the Kinetic Molecular Theory of Gases, heat capacity at constant volume vs. constant pressure, Boltzmann's Constant, deviation of real gas behavior from the Ideal Gas Law (qualitatively and quantitatively via Van der Waals' Equation), partial pressure, mole fraction, and Dalton's Law.",
+    "tags": [
+      "Chemistry",
+      "Physics",
+      "Kinetic Theory"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_001",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Electrostatics Fundamentals",
+    "content_to_test": "Test understanding of electrostatics, including the concepts of charge, conductors, charge conservation, insulators, Coulomb's Law, the definition and calculation of electric fields (including field lines and distribution), electrostatic energy, and electric potential at a point in space.",
+    "tags": [
+      "Physics",
+      "Electrostatics",
+      "Electric Field"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_002",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Circuit Elements: Resistance and Current",
+    "content_to_test": "Test knowledge of basic circuit elements focusing on current (sign conventions, units), electromotive force, voltage, and resistance. Include Ohm's Law, calculation of resistors in series and parallel, resistivity, conductivity (metallic and electrolytic), and the use of meters.",
+    "tags": [
+      "Physics",
+      "Circuits",
+      "Resistance"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_003",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Circuit Elements: Capacitance",
+    "content_to_test": "Test understanding of capacitance within electrical circuits, specifically focusing on parallel plate capacitors, calculating the energy of a charged capacitor, computing equivalent capacitance for capacitors in series and parallel, and the function of dielectrics.",
+    "tags": [
+      "Physics",
+      "Circuits",
+      "Capacitance"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_004",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Magnetism",
+    "content_to_test": "Test knowledge of magnetism, including the definition of the magnetic field B, the motion of charged particles in magnetic fields, and the calculation and application of the Lorentz force.",
+    "tags": [
+      "Physics",
+      "Magnetism",
+      "Magnetic Field"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_005",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Electrolytic Cells and Electrolysis",
+    "content_to_test": "Test understanding of electrolytic cells, the process of electrolysis, the specific roles and reactions at the anode and cathode, electrolytes, and the application of Faraday's Law relating current to the amount of elements deposited or gas liberated.",
+    "tags": [
+      "Chemistry",
+      "Electrochemistry",
+      "Electrolytic Cells"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_006",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Galvanic Cells and Batteries",
+    "content_to_test": "Test knowledge of Galvanic (Voltaic) cells and concentration cells, including half-reactions, reduction potentials, calculating cell potential, determining the direction of electron flow, and specific battery types such as lead-storage and nickel-cadmium batteries.",
+    "tags": [
+      "Chemistry",
+      "Electrochemistry",
+      "Galvanic Cells"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4C_007",
+    "category": "Foundational Concept 4",
+    "subcategory": "4C: Electrochemistry and electrical circuits and their elements",
+    "title": "Nerve Cell as an Electrical Circuit",
+    "content_to_test": "Test understanding of the physical properties of the nerve cell acting as an electrical circuit, focusing on the insulation of the axon by the myelin sheath (Schwann cells) and the propagation of the nerve impulse along the axon via the Nodes of Ranvier.",
+    "tags": [
+      "Physics",
+      "Biology",
+      "Neurons"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4D_001",
+    "category": "Foundational Concept 4",
+    "subcategory": "4D: How light and sound interact with matter",
+    "title": "Properties of Sound",
+    "content_to_test": "Test knowledge of the physical properties of sound, including its production, relative speed in solids, liquids, and gases, intensity (decibel units, log scale), attenuation (damping), the Doppler Effect (moving source/observer, reflection from a moving object), pitch, resonance in pipes and strings, ultrasound, and shock waves.",
+    "tags": [
+      "Physics",
+      "Sound",
+      "Waves"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4D_002",
+    "category": "Foundational Concept 4",
+    "subcategory": "4D: How light and sound interact with matter",
+    "title": "Electromagnetic Radiation and Light",
+    "content_to_test": "Test understanding of light and electromagnetic radiation. Topics include interference (Young's double-slit experiment), thin films, diffraction (grating, single-slit, X-ray), polarization (linear and circular), properties of EM radiation (constant velocity c, perpendicular electric and magnetic fields), the EM spectrum, photon energy (E=hf), and the visual spectrum.",
+    "tags": [
+      "Physics",
+      "Light",
+      "Electromagnetic Spectrum"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4D_003",
+    "category": "Foundational Concept 4",
+    "subcategory": "4D: How light and sound interact with matter",
+    "title": "Absorption Spectra and Spectroscopy",
+    "content_to_test": "Test knowledge of molecular structure and absorption spectra, including the Infrared region (intramolecular vibrations, fingerprint region), Visible region (complementary colors, structural changes/indicators), Ultraviolet region (pi-electrons, conjugated systems), and NMR spectroscopy (protons in a magnetic field, equivalent protons, spin-spin splitting).",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Spectroscopy"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4D_004",
+    "category": "Foundational Concept 4",
+    "subcategory": "4D: How light and sound interact with matter",
+    "title": "Geometrical Optics: Reflection and Refraction",
+    "content_to_test": "Test understanding of geometrical optics focusing on reflection from plane surfaces (angle of incidence equals angle of reflection), refraction (refractive index, Snell's law), dispersion (change of index of refraction with wavelength), and the conditions for total internal reflection.",
+    "tags": [
+      "Physics",
+      "Optics",
+      "Refraction"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4D_005",
+    "category": "Foundational Concept 4",
+    "subcategory": "4D: How light and sound interact with matter",
+    "title": "Geometrical Optics: Mirrors and Lenses",
+    "content_to_test": "Test knowledge of spherical mirrors (center of curvature, focal length, real/virtual images) and thin lenses (converging/diverging, lens formula with sign conventions, lens strength/diopters, combinations, aberration). Also test the application of these principles to optical instruments, including the human eye.",
+    "tags": [
+      "Physics",
+      "Optics",
+      "Lenses"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4E_001",
+    "category": "Foundational Concept 4",
+    "subcategory": "4E: Atoms, nuclear decay, electronic structure, and atomic chemical behavior",
+    "title": "The Atomic Nucleus and Radioactivity",
+    "content_to_test": "Test understanding of the atomic nucleus, including atomic number, atomic weight, neutrons, protons, isotopes, nuclear forces, binding energy, radioactive decay (alpha, beta, gamma), half-life (exponential decay, semi-log plots), and the use of mass spectroscopy/mass spectrometers.",
+    "tags": [
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4E_002",
+    "category": "Foundational Concept 4",
+    "subcategory": "4E: Atoms, nuclear decay, electronic structure, and atomic chemical behavior",
+    "title": "Electronic Structure of the Atom",
+    "content_to_test": "Test knowledge of electronic structure, including the orbital structure of the hydrogen atom, principal quantum number n, electrons per orbital, ground vs excited states, absorption/emission line spectra, Pauli Exclusion Principle, paramagnetism, diamagnetism, conventional notation, the Bohr atom, Heisenberg Uncertainty Principle, effective nuclear charge, and the photoelectric effect.",
+    "tags": [
+      "Chemistry",
+      "Physics",
+      "Atomic Structure"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4E_003",
+    "category": "Foundational Concept 4",
+    "subcategory": "4E: Atoms, nuclear decay, electronic structure, and atomic chemical behavior",
+    "title": "Periodic Table Classifications",
+    "content_to_test": "Test understanding of the classification of elements in the periodic table, specifically identifying and understanding the characteristics of alkali metals, alkaline earth metals, halogens, noble gases, transition metals, representative elements, metals vs. nonmetals, and the oxygen group.",
+    "tags": [
+      "Chemistry",
+      "Periodic Table",
+      "Elements"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4E_004",
+    "category": "Foundational Concept 4",
+    "subcategory": "4E: Atoms, nuclear decay, electronic structure, and atomic chemical behavior",
+    "title": "Periodic Trends",
+    "content_to_test": "Test knowledge of the periodic variations of chemical properties with group and row. Topics include valence electrons, first and second ionization energy, electron affinity, electronegativity, and the relative sizes of atoms and ions based on electron shells.",
+    "tags": [
+      "Chemistry",
+      "Periodic Table",
+      "Periodic Trends"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_4E_005",
+    "category": "Foundational Concept 4",
+    "subcategory": "4E: Atoms, nuclear decay, electronic structure, and atomic chemical behavior",
+    "title": "Stoichiometry and Chemical Equations",
+    "content_to_test": "Test understanding of stoichiometry, including molecular weight, empirical vs. molecular formulas, percent mass composition, the mole concept (Avogadro's number), density, oxidation numbers, common oxidizing/reducing agents, disproportionation reactions, and the description of chemical reactions via balancing equations (including redox), limiting reactants, and theoretical yields.",
+    "tags": [
+      "Chemistry",
+      "Stoichiometry",
+      "Chemical Reactions"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5A_001",
+    "category": "Foundational Concept 5",
+    "subcategory": "5A: Unique nature of water and its solutions",
+    "title": "Acid-Base Equilibria",
+    "content_to_test": "Test knowledge of acid-base equilibria, including Bronsted-Lowry definitions, the ionization of water and the value of Kw (10^-14 at 25C, 1 atm), pH definition, conjugate acids/bases, strong vs. weak acids/bases, dissociation of weak acids/bases with or without added salt, hydrolysis of salts, pH calculation for salt solutions, the equilibrium constants Ka and Kb (and pKa/pKb), and the definition, concepts, and titration curve influence of buffers.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Acids and Bases"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5A_002",
+    "category": "Foundational Concept 5",
+    "subcategory": "5A: Unique nature of water and its solutions",
+    "title": "Ions in Solutions",
+    "content_to_test": "Test understanding of ions in solutions, including common names, formulas, and charges for familiar anions and cations (e.g., ammonium, phosphate, sulfate), as well as the concept of hydration and the hydronium ion.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Ions"
+    ],
+    "adaptive_score": 0.3333333333333333,
+    "last_seen": 1773467853.5396836
+  },
+  {
+    "topic_id": "CP_5A_003",
+    "category": "Foundational Concept 5",
+    "subcategory": "5A: Unique nature of water and its solutions",
+    "title": "Solubility and Complex Ions",
+    "content_to_test": "Test knowledge of solubility, including units of concentration (molarity), the solubility product constant equilibrium expression (Ksp), the common-ion effect and its use in lab separations, complex ion formation, and the relationship between solubility and pH.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Solubility"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5A_004",
+    "category": "Foundational Concept 5",
+    "subcategory": "5A: Unique nature of water and its solutions",
+    "title": "Titration",
+    "content_to_test": "Test understanding of titration principles, focusing on the use of indicators, the process of neutralization, the interpretation of titration curves, and redox titration.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Titration"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5B_001",
+    "category": "Foundational Concept 5",
+    "subcategory": "5B: Nature of molecules and intermolecular interactions",
+    "title": "Covalent Bonding and Molecular Structure",
+    "content_to_test": "Test knowledge of covalent bonding and molecular shape. Topics include Lewis dot formulas, resonance structures, formal charge, Lewis acids/bases, partial ionic character/electronegativity/dipole moments, sigma and pi bonds, hybrid orbitals (sp3, sp2, sp) and their geometries, VSEPR theory for predicting shapes (e.g., NH3, H2O, CO2), delocalized electrons, and the effect of multiple bonding on bond length, energy, and rigidity.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Chemical Bonding"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5B_002",
+    "category": "Foundational Concept 5",
+    "subcategory": "5B: Nature of molecules and intermolecular interactions",
+    "title": "Stereochemistry",
+    "content_to_test": "Test understanding of stereochemistry for covalently bonded molecules, including structural isomers, stereoisomers (diastereomers, enantiomers, cis-trans), conformational isomers, polarization of light and specific rotation, and absolute/relative configurations including R/S and E/Z conventions.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Stereochemistry"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5B_003",
+    "category": "Foundational Concept 5",
+    "subcategory": "5B: Nature of molecules and intermolecular interactions",
+    "title": "Intermolecular Forces",
+    "content_to_test": "Test knowledge of intermolecular forces in the liquid phase, specifically focusing on hydrogen bonding, dipole interactions, and Van der Waals (London dispersion) forces.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Intermolecular Forces"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5C_001",
+    "category": "Foundational Concept 5",
+    "subcategory": "5C: Separation and purification methods",
+    "title": "Extraction, Distillation, and Chromatography",
+    "content_to_test": "Test understanding of standard laboratory separation and purification methods, including extraction (distribution between immiscible solvents), distillation, and the basic principles of chromatography (column, gas-liquid, high-pressure liquid, paper, and thin-layer).",
+    "tags": [
+      "Chemistry",
+      "Laboratory Techniques",
+      "Separations"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5C_002",
+    "category": "Foundational Concept 5",
+    "subcategory": "5C: Separation and purification methods",
+    "title": "Biomolecule and Enantiomer Separation",
+    "content_to_test": "Test knowledge of advanced separation and purification techniques for specific molecules. Focus on separating peptides and proteins (via electrophoresis, quantitative analysis, size-exclusion, ion-exchange, and affinity chromatography) and the separation of racemic mixtures into enantiomers.",
+    "tags": [
+      "Biochemistry",
+      "Organic Chemistry",
+      "Purification"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_001",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Nucleotide Chemistry and RNA Structures",
+    "content_to_test": "Test knowledge of the chemistry of nucleotides and nucleic acids beyond their fundamental structure. Focus on RNA structures, DNA/RNA distinctions at the chemical level, and the specific composition of nucleosides/nucleotides.",
+    "tags": [
+      "Biochemistry",
+      "Nucleic Acids",
+      "Organic Chemistry"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_002",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Amino Acid Synthesis and Chemistry",
+    "content_to_test": "Test understanding of the organic chemistry of amino acids. Topics include the synthesis of alpha-amino acids via the Strecker Synthesis and Gabriel Synthesis, as well as the chemical mechanisms of peptide linkage formation and peptide hydrolysis.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Amino Acids"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_003",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Lipid Classification and Reactions",
+    "content_to_test": "Test knowledge of the structural features and types of lipids, focusing on storage (triacyl glycerols, free fatty acids/saponification), structural roles (phospholipids, phosphatids, sphingolipids, waxes), and signaling/cofactor roles (fat-soluble vitamins, steroids, prostaglandins).",
+    "tags": [
+      "Biochemistry",
+      "Organic Chemistry",
+      "Lipids"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_004",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Carbohydrate Chemistry",
+    "content_to_test": "Test understanding of carbohydrate chemistry, particularly keto-enol tautomerism of monosaccharides, the mechanism of hydrolysis of the glycosidic linkage, and the specific chemical structures and conformations of key hexoses, disaccharides, and polysaccharides.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Carbohydrates"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_005",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Aldehydes and Ketones: Addition and Oxidation",
+    "content_to_test": "Test knowledge of aldehydes and ketones, including their nomenclature, physical properties, oxidation of aldehydes, and nucleophilic addition reactions at the C=O bond (acetal, hemiacetal, imine, enamine, hydride reagents, and cyanohydrin formation).",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Carbonyls"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_006",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Enolate Chemistry and Aldol Condensation",
+    "content_to_test": "Test understanding of reactions at adjacent positions to the carbonyl group (enolate chemistry). Topics include keto-enol tautomerism (alpha-racemization), the aldol condensation, retro-aldol reactions, kinetic vs. thermodynamic enolates, the acidity of the alpha-hydrogen (carbanions), and the effect of substituents/steric hindrance on C=O reactivity.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Enolates"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_007",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Alcohols",
+    "content_to_test": "Test knowledge of alcohols, including nomenclature, physical properties (acidity, hydrogen bonding), oxidation reactions, substitution reactions (SN1 or SN2), the protection of alcohols, and the preparation of mesylates and tosylates.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Alcohols"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_008",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Carboxylic Acids",
+    "content_to_test": "Test understanding of carboxylic acids, including nomenclature, physical properties, carboxyl group reactions (formation of amides, esters, anhydrides; reduction; decarboxylation), and substitution reactions at the alpha-position.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Carboxylic Acids"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5D_009",
+    "category": "Foundational Concept 5",
+    "subcategory": "5D: Structure, function, and reactivity of biologically relevant molecules",
+    "title": "Acid Derivatives and Phenols",
+    "content_to_test": "Test knowledge of acid derivatives (anhydrides, amides, esters), focusing on nomenclature, nucleophilic substitution, transesterification, amide hydrolysis, relative reactivity, steric/electronic effects, and lactam strain. Also test knowledge of phenols, including oxidation/reduction to hydroquinones/ubiquinones (biological 2e- redox centers), and polycyclic/heterocyclic aromatic compounds.",
+    "tags": [
+      "Chemistry",
+      "Organic Chemistry",
+      "Acid Derivatives"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5E_001",
+    "category": "Foundational Concept 5",
+    "subcategory": "5E: Principles of chemical thermodynamics and kinetics",
+    "title": "Thermochemistry and Thermodynamics",
+    "content_to_test": "Test knowledge of thermodynamics in chemical reactions, including state functions, the Zeroth Law, the First Law (conservation of energy, PV diagram work), the Second Law (entropy), calorimetry, heat transfer (conduction, convection, radiation), endothermic/exothermic reactions, enthalpy, Hess's Law, bond dissociation energy, standard free energy, and spontaneous reactions.",
+    "tags": [
+      "Chemistry",
+      "Physics",
+      "Thermodynamics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5E_002",
+    "category": "Foundational Concept 5",
+    "subcategory": "5E: Principles of chemical thermodynamics and kinetics",
+    "title": "Chemical Kinetics",
+    "content_to_test": "Test understanding of chemical kinetics, including the dependence of reaction rate on reactant concentration, rate law, rate constant, reaction order, rate-determining step, activation energy, the activated complex (transition state), Arrhenius equation, the difference between kinetic and thermodynamic control, and the function of catalysts.",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Kinetics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CP_5E_003",
+    "category": "Foundational Concept 5",
+    "subcategory": "5E: Principles of chemical thermodynamics and kinetics",
+    "title": "Chemical Equilibrium",
+    "content_to_test": "Test knowledge of equilibrium in reversible chemical reactions. Topics include the Law of Mass Action, the Equilibrium Constant, the application of Le Chatelier's Principle, and the mathematical relationship between the equilibrium constant (Keq) and standard free energy (delta G).",
+    "tags": [
+      "Chemistry",
+      "General Chemistry",
+      "Equilibrium"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6A_001",
+    "category": "Foundational Concept 6",
+    "subcategory": "6A: Sensing the environment",
+    "title": "Sensory Processing Principles",
+    "content_to_test": "Test understanding of sensory processing fundamentals, including absolute and difference thresholds, Weber's Law, signal detection theory, sensory adaptation, psychophysics, specific types of sensory receptors, and how sensory pathways route information to the brain.",
+    "tags": [
+      "Psychology",
+      "Sensation",
+      "Perception"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6A_002",
+    "category": "Foundational Concept 6",
+    "subcategory": "6A: Sensing the environment",
+    "title": "Vision and Hearing",
+    "content_to_test": "Test knowledge of vision and hearing, focusing on the anatomical structure and physiological functions of the eye and ear, visual and auditory processing pathways in the brain, parallel processing, feature detection, and the mechanics of sensory reception by hair cells.",
+    "tags": [
+      "Psychology",
+      "Biology",
+      "Sensation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6A_003",
+    "category": "Foundational Concept 6",
+    "subcategory": "6A: Sensing the environment",
+    "title": "Other Senses and Perception",
+    "content_to_test": "Test understanding of the minor senses and overall perception. Topics include somatosensation (pain perception), taste (chemoreceptors), smell (olfactory cells, pheromones, olfactory pathways), kinesthetic sense, vestibular sense, bottom-up vs top-down processing, perceptual organization (depth, form, motion, constancy), and Gestalt principles.",
+    "tags": [
+      "Psychology",
+      "Sensation",
+      "Perception"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_001",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "Attention and Cognition",
+    "content_to_test": "Test knowledge of attention (selective and divided) and cognition. Topics include the information-processing model, Piaget's stages of cognitive development, cognitive changes in late adulthood, cultural and biological influences on cognition, types of problem-solving, barriers to effective problem-solving (heuristics, biases, overconfidence, belief perseverance), and theories/variations of intelligence.",
+    "tags": [
+      "Psychology",
+      "Cognition",
+      "Problem Solving"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_002",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "States of Consciousness",
+    "content_to_test": "Test understanding of the states of consciousness, including alertness, sleep stages, sleep cycles, sleep and circadian rhythms, dreaming, sleep-wake disorders, hypnosis, meditation, and the types/effects of consciousness-altering drugs (including drug addiction and the brain's reward pathway).",
+    "tags": [
+      "Psychology",
+      "Consciousness",
+      "Sleep"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_003a",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "Memory Encoding and Storage",
+    "content_to_test": "Test knowledge of memory encoding processes and types of storage (sensory, working, long-term), as well as semantic networks and spreading activation.",
+    "tags": [
+      "Psychology",
+      "Memory",
+      "Cognition"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_003b",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "Memory Retrieval and Forgetting",
+    "content_to_test": "Test understanding of retrieval (recall, recognition, relearning, retrieval cues, role of emotion) and forgetting (decay, interference, aging, memory construction, and source monitoring).",
+    "tags": [
+      "Psychology",
+      "Memory",
+      "Cognition"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_003c",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "Memory Dysfunctions and Biology",
+    "content_to_test": "Test knowledge of memory dysfunctions (Alzheimer's disease, Korsakoff's syndrome) and the biological basis of memory and learning (neural plasticity, long-term potentiation).",
+    "tags": [
+      "Psychology",
+      "Memory",
+      "Neurobiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6B_004",
+    "category": "Foundational Concept 6",
+    "subcategory": "6B: Making sense of the environment",
+    "title": "Language Development and Brain Areas",
+    "content_to_test": "Test understanding of language, including theories of language development (learning, nativist, interactionist), the influence of language on cognition, and the specific brain areas that control language and speech.",
+    "tags": [
+      "Psychology",
+      "Language",
+      "Cognition"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6C_001",
+    "category": "Foundational Concept 6",
+    "subcategory": "6C: Responding to the world",
+    "title": "Theories and Components of Emotion",
+    "content_to_test": "Test knowledge of emotion, focusing on its three components (cognitive, physiological, behavioral), the universal emotions, the adaptive role of emotion, theories of emotion (James-Lange, Cannon-Bard, Schachter-Singer), and the biological processes involved (brain regions, limbic system, autonomic nervous system, and physiological markers).",
+    "tags": [
+      "Psychology",
+      "Emotion",
+      "Neurobiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_6C_002",
+    "category": "Foundational Concept 6",
+    "subcategory": "6C: Responding to the world",
+    "title": "Stress and Stress Management",
+    "content_to_test": "Test understanding of the nature of stress (appraisal, types of stressors like cataclysmic events or personal), the effects of stress on psychological functions, stress outcomes and responses (physiological, emotional, behavioral), and mechanisms for managing stress (exercise, relaxation, spirituality).",
+    "tags": [
+      "Psychology",
+      "Stress",
+      "Health Psychology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7A_001",
+    "category": "Foundational Concept 7",
+    "subcategory": "7A: Individual influences on behavior",
+    "title": "Biological Bases of Behavior",
+    "content_to_test": "Test knowledge of the biological bases of behavior. Topics include the nervous system (neurons, neurotransmitters, central/peripheral structure), brain structure (forebrain, midbrain, hindbrain, lateralization), endocrine system effects on behavior, behavioral genetics (genes, temperament, heredity, regulatory genes), and human physiological development (prenatal, motor, adolescence).",
+    "tags": [
+      "Psychology",
+      "Biology",
+      "Neurobiology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7A_002",
+    "category": "Foundational Concept 7",
+    "subcategory": "7A: Individual influences on behavior",
+    "title": "Theories of Personality",
+    "content_to_test": "Test understanding of the major theories of personality, including the psychoanalytic, humanistic, trait, social cognitive, biological, and behaviorist perspectives, as well as the situational approach to explaining behavior.",
+    "tags": [
+      "Psychology",
+      "Personality",
+      "Theories"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7A_003",
+    "category": "Foundational Concept 7",
+    "subcategory": "7A: Individual influences on behavior",
+    "title": "Psychological Disorders",
+    "content_to_test": "Test knowledge of psychological disorders, including biomedical vs. biopsychosocial approaches to understanding them, classification, and rates. Focus on specific types (anxiety, obsessive-compulsive, trauma, somatic symptom, bipolar, depressive, schizophrenia, dissociative, personality disorders) and the specific biological bases of schizophrenia, depression, Alzheimer's, and Parkinson's disease.",
+    "tags": [
+      "Psychology",
+      "Psychopathology",
+      "Disorders"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7A_004",
+    "category": "Foundational Concept 7",
+    "subcategory": "7A: Individual influences on behavior",
+    "title": "Motivation and Attitudes",
+    "content_to_test": "Test understanding of motivation and attitudes. Topics include factors influencing motivation (instinct, arousal, drives, needs), theories of motivation (drive reduction, incentive, cognitive, need-based), the components of attitudes (cognitive, affective, behavioral), the link between attitudes and behavior (foot-in-the-door, role-playing), and cognitive dissonance theory.",
+    "tags": [
+      "Psychology",
+      "Motivation",
+      "Attitudes"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7B_001",
+    "category": "Foundational Concept 7",
+    "subcategory": "7B: Social processes that influence human behavior",
+    "title": "Presence of Others and Individual Behavior",
+    "content_to_test": "Test understanding of how the presence of others affects individual behavior, specifically focusing on social facilitation, deindividuation, the bystander effect, social loafing, social control, peer pressure, conformity, and obedience.",
+    "tags": [
+      "Psychology",
+      "Sociology",
+      "Social Psychology"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7B_002",
+    "category": "Foundational Concept 7",
+    "subcategory": "7B: Social processes that influence human behavior",
+    "title": "Group Decision-Making and Social Norms",
+    "content_to_test": "Test knowledge of group decision-making processes (group polarization, groupthink) and normative vs. nonnormative behavior. Topics include social norms, sanctions, folkways, mores, taboos, anomie, perspectives on deviance (differential association, labeling theory, strain theory), and collective behavior (fads, mass hysteria, riots).",
+    "tags": [
+      "Psychology",
+      "Sociology",
+      "Group Dynamics"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7B_003",
+    "category": "Foundational Concept 7",
+    "subcategory": "7B: Social processes that influence human behavior",
+    "title": "Socialization",
+    "content_to_test": "Test understanding of socialization and the primary agents of socialization, including the family, mass media, peers, and the workplace.",
+    "tags": [
+      "Sociology",
+      "Socialization",
+      "Culture"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7C_001",
+    "category": "Foundational Concept 7",
+    "subcategory": "7C: Attitude and behavior change",
+    "title": "Habituation and Associative Learning",
+    "content_to_test": "Test knowledge of habituation, dishabituation, and associative learning. Topics include classical conditioning (neutral/conditioned/unconditioned stimuli and responses, acquisition, extinction, spontaneous recovery, generalization, discrimination) and operant conditioning (shaping, extinction, types of reinforcement, reinforcement schedules, punishment, escape/avoidance learning). Also test the biological and cognitive processes affecting associative learning.",
+    "tags": [
+      "Psychology",
+      "Learning",
+      "Conditioning"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_7C_002",
+    "category": "Foundational Concept 7",
+    "subcategory": "7C: Attitude and behavior change",
+    "title": "Observational Learning and Attitude Change",
+    "content_to_test": "Test understanding of observational learning (modeling, mirror neurons, vicarious emotions) and theories of attitude/behavior change, specifically the elaboration likelihood model, social cognitive theory, and factors affecting attitude change (message characteristics, target characteristics, social factors).",
+    "tags": [
+      "Psychology",
+      "Learning",
+      "Attitude Change"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_8A_001",
+    "category": "Foundational Concept 8",
+    "subcategory": "8A: Self-identity",
+    "title": "Self-Concept and Identity Formation",
+    "content_to_test": "Test knowledge of self-concept, self-identity, and social identity. Topics include the roles of self-esteem, self-efficacy, and locus of control, different types of identities (race/ethnicity, gender, age, sexual orientation, class), theories of identity development (gender, moral, psychosexual, social), and the influence of individuals (looking-glass self, role-taking), groups (reference groups), and culture on identity formation.",
+    "tags": [
+      "Psychology",
+      "Sociology",
+      "Identity"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_8B_001",
+    "category": "Foundational Concept 8",
+    "subcategory": "8B: Social thinking",
+    "title": "Attributing Behavior and Prejudice",
+    "content_to_test": "Test understanding of social thinking, focusing on attributional processes (fundamental attribution error, role of culture), how self-perceptions and environment shape perceptions of others, processes contributing to prejudice (power, prestige, class, emotion, cognition), stereotypes (self-fulfilling prophecy, stereotype threat), stigma, and ethnocentrism vs. cultural relativism.",
+    "tags": [
+      "Psychology",
+      "Sociology",
+      "Social Thinking"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_8C_001",
+    "category": "Foundational Concept 8",
+    "subcategory": "8C: Social interactions",
+    "title": "Elements of Social Interaction",
+    "content_to_test": "Test knowledge of the structural elements of social interaction. Topics include status (achieved, ascribed), role (role conflict, role strain, role exit), groups (primary/secondary, in-group/out-group, group size/dyads/triads), networks, and formal organizations including the characteristics and perspectives on bureaucracy (iron law of oligarchy, McDonaldization).",
+    "tags": [
+      "Sociology",
+      "Social Interaction",
+      "Organizations"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_8C_002",
+    "category": "Foundational Concept 8",
+    "subcategory": "8C: Social interactions",
+    "title": "Self-Presentation and Social Behavior",
+    "content_to_test": "Test understanding of self-presentation and social behavior. Topics include expressing/detecting emotion (role of gender and culture), impression management, the dramaturgical approach (front-stage vs. back-stage self), verbal/nonverbal communication, animal signals, attraction, aggression, attachment, altruism, social support, biological explanations of social behavior (foraging, mating, game theory, inclusive fitness), and individual vs. institutional discrimination.",
+    "tags": [
+      "Psychology",
+      "Sociology",
+      "Social Behavior"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_9A_001",
+    "category": "Foundational Concept 9",
+    "subcategory": "9A: Understanding social structure",
+    "title": "Sociological Theories and Institutions",
+    "content_to_test": "Test knowledge of theoretical approaches to understanding social structure (microsociology vs. macrosociology, functionalism, conflict theory, symbolic interactionism, social constructionism, exchange-rational choice, feminist theory) and the major social institutions (education, family, religion, government, economy, health and medicine including medicalization and the sick role).",
+    "tags": [
+      "Sociology",
+      "Social Structure",
+      "Sociological Theories"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_9A_002",
+    "category": "Foundational Concept 9",
+    "subcategory": "9A: Understanding social structure",
+    "title": "Culture",
+    "content_to_test": "Test understanding of culture, including elements of culture (beliefs, language, rituals, symbols, values), material vs. symbolic culture, culture lag, culture shock, assimilation, multiculturalism, subcultures and countercultures, mass media and popular culture, transmission, diffusion, and the evolution of human culture.",
+    "tags": [
+      "Sociology",
+      "Psychology",
+      "Culture"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_9B_001a",
+    "category": "Foundational Concept 9",
+    "subcategory": "9B: Demographic characteristics and processes",
+    "title": "Demographic Structure of Society",
+    "content_to_test": "Test knowledge of demographic variables including age cohorts, the social construction of gender vs. sex, race and ethnicity (racialization, racial formation), immigration status, and sexual orientation.",
+    "tags": [
+      "Sociology",
+      "Demographics",
+      "Social Structure"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_9B_001b",
+    "category": "Foundational Concept 9",
+    "subcategory": "9B: Demographic characteristics and processes",
+    "title": "Demographic Shifts and Social Change",
+    "content_to_test": "Test understanding of theories of demographic change (Malthusian theory, demographic transition), population pyramids, fertility/mortality rates, social movements, globalization, and urbanization.",
+    "tags": [
+      "Sociology",
+      "Demographics",
+      "Social Change"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "PS_10A_001",
+    "category": "Foundational Concept 10",
+    "subcategory": "10A: Social inequality",
+    "title": "Social Stratification and Inequality",
+    "content_to_test": "Test understanding of social inequality, including spatial inequality (residential segregation, environmental justice), aspects of social stratification (social class, SES, class consciousness, false consciousness, cultural/social capital, social reproduction, power/privilege/prestige, intersectionality), socioeconomic gradients in health, global inequalities, patterns of social mobility (intergenerational, intragenerational, vertical, horizontal, meritocracy), poverty (relative/absolute, social exclusion), and health/healthcare disparities.",
+    "tags": [
+      "Sociology",
+      "Social Inequality",
+      "Stratification"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CARS_001",
+    "category": "Critical Analysis and Reasoning Skills",
+    "subcategory": "Foundations of Comprehension",
+    "title": "Understanding and Inferring Meaning",
+    "content_to_test": "Test the ability to understand the basic components of a text and infer meaning or intent from immediate sentence context. This includes identifying the author's thesis, main point, theme, recognizing the literal meaning of specific words, interpreting rhetorical devices, determining the overall purpose of a passage, and understanding tone.",
+    "tags": [
+      "CARS",
+      "Comprehension",
+      "Reading Skills"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CARS_002",
+    "category": "Critical Analysis and Reasoning Skills",
+    "subcategory": "Reasoning Within the Text",
+    "title": "Evaluating Arguments and Author Intent",
+    "content_to_test": "Test the ability to integrate distant components of a text to infer an author's message, intent, purpose, belief, position, bias, and assumptions. Include recognizing and evaluating arguments, their structural elements (claims, evidence, support, relations), identifying contradictions, and assessing the credibility of sources and soundness of conclusions within the passage.",
+    "tags": [
+      "CARS",
+      "Reasoning",
+      "Argument Evaluation"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  },
+  {
+    "topic_id": "CARS_003",
+    "category": "Critical Analysis and Reasoning Skills",
+    "subcategory": "Reasoning Beyond the Text",
+    "title": "Application and Incorporation of New Information",
+    "content_to_test": "Test the ability to apply or extrapolate ideas from the passage to new contexts or hypothetical situations, and assess the impact of incorporating new factors, information, or conditions on the ideas originally presented in the passage. This includes identifying analogous relationships and determining how new evidence might weaken, strengthen, or alter the author's central thesis.",
+    "tags": [
+      "CARS",
+      "Extrapolation",
+      "Critical Thinking"
+    ],
+    "adaptive_score": 1.0,
+    "last_seen": 0.0
+  }
+]
