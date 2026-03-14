@@ -264,7 +264,7 @@ REQUIRED_TOPIC_FIELDS = {
 
 
 def validate_topic(topic: dict[str, Any]) -> tuple[bool, list[str]]:
-    """Validate a topic entry from topics.json."""
+    """Validate a topic entry from mcat_topics.json."""
     errors: list[str] = []
 
     for field in REQUIRED_TOPIC_FIELDS:
@@ -304,15 +304,15 @@ def is_science_topic(topic: dict[str, Any]) -> bool:
     return not is_cars_topic(topic)
 
 
-def load_topics(topics_path: str | Path) -> list[dict[str, Any]]:
+def load_topics(mcat_topics_path: str | Path) -> list[dict[str, Any]]:
     """
-    Load topics.json and return a list of validated topic dicts.
+    Load mcat_topics.json and return a list of validated topic dicts.
 
     Supports either:
     - a top-level list of topics
     - or a dict with a `topics` key
     """
-    raw = load_json(topics_path)
+    raw = load_json(mcat_topics_path)
 
     if isinstance(raw, list):
         topics = raw
@@ -320,7 +320,7 @@ def load_topics(topics_path: str | Path) -> list[dict[str, Any]]:
         topics = raw["topics"]
     else:
         raise ValueError(
-            "topics.json must be either a list of topic objects or a dict with a 'topics' list"
+            "mcat_topics.json must be either a list of topic objects or a dict with a 'topics' list"
         )
 
     validated: list[dict[str, Any]] = []
@@ -337,7 +337,7 @@ def load_topics(topics_path: str | Path) -> list[dict[str, Any]]:
 
         topic_id = topic["topic_id"]
         if topic_id in seen_ids:
-            raise ValueError(f"Duplicate topic_id found in topics.json: {topic_id}")
+            raise ValueError(f"Duplicate topic_id found in mcat_topics.json: {topic_id}")
         seen_ids.add(topic_id)
         validated.append(topic)
 

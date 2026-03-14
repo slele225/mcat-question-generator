@@ -1,7 +1,7 @@
 """
 generate_bank.py
 
-Generate an MCAT question bank from topics.json and write incrementally to JSONL.
+Generate an MCAT question bank from mcat_topics.json and write incrementally to JSONL.
 
 Design goals:
 - Works with either a mock backend or a real OpenAI-compatible backend
@@ -13,11 +13,11 @@ Design goals:
 Typical usage examples:
 
 Mock backend test:
-    python generate_bank.py --topics topics.json --output data/question_bank.jsonl --backend mock
+    python generate_bank.py --mcat-topics mcat_topics.json --output data/question_bank.jsonl --backend mock
 
 OpenAI-compatible backend (e.g. vLLM serve):
     python generate_bank.py \
-        --topics topics.json \
+        --mcat-topics mcat_topics.json \
         --output data/question_bank.jsonl \
         --backend openai_compat \
         --base-url http://127.0.0.1:8000/v1 \
@@ -330,7 +330,7 @@ def print_run_header(args: argparse.Namespace, total_units: int) -> None:
     print("=" * 72)
     print("MCAT question bank generation")
     print("=" * 72)
-    print(f"topics file:      {args.topics}")
+    print(f"mcat_topics file: {args.mcat_topics}")
     print(f"output file:      {args.output}")
     print(f"checkpoint file:  {args.checkpoint}")
     print(f"backend:          {args.backend}")
@@ -429,10 +429,10 @@ def generate_batch_for_units(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate an MCAT question bank from topics.json."
+        description="Generate an MCAT question bank from mcat_topics.json."
     )
 
-    parser.add_argument("--topics", type=str, default="topics.json", help="Path to topics.json")
+    parser.add_argument("--mcat-topics", type=str, default="mcat_topics.json", help="Path to mcat_topics.json")
     parser.add_argument(
         "--output",
         type=str,
@@ -629,7 +629,7 @@ def write_failure_record(
 def main() -> None:
     args = parse_args()
 
-    topics = load_topics(args.topics)
+    topics = load_topics(args.mcat_topics)
     topics = filter_topics(topics, args.topic_id)
 
     units = plan_generation_units(
@@ -665,7 +665,7 @@ def main() -> None:
     run_meta = {
         "backend": args.backend,
         "model": args.model,
-        "topics_path": args.topics,
+        "mcat_topics_path": args.mcat_topics,
         "output_path": args.output,
         "science_per_topic": args.science_per_topic,
         "cars_sets_per_topic": args.cars_sets_per_topic,

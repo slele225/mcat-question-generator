@@ -4,7 +4,7 @@ optimize_prompt.py
 Small-scale prompt refinement / evaluation loop for MCAT generation prompts.
 
 Purpose:
-- Sample a small subset of topics from topics.json
+- Sample a small subset of topics from mcat_topics.json
 - Generate candidate outputs with one or more prompt variants
 - Critique the generated outputs using a second evaluation prompt
 - Save structured results to JSON for inspection before bulk generation
@@ -197,7 +197,7 @@ def parse_args() -> argparse.Namespace:
         description="Small-scale prompt optimization loop for MCAT generation."
     )
 
-    parser.add_argument("--topics", type=str, default="topics.json", help="Path to topics.json")
+    parser.add_argument("--mcat-topics", type=str, default="mcat_topics.json", help="Path to mcat_topics.json")
     parser.add_argument(
         "--output",
         type=str,
@@ -284,7 +284,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> None:
     args = parse_args()
 
-    topics = load_topics(args.topics)
+    topics = load_topics(args.mcat_topics)
     sampled = sample_topics(
         topics=topics,
         n=args.sample_size,
@@ -312,7 +312,7 @@ def main() -> None:
     print("=" * 72)
     print("Prompt optimization run")
     print("=" * 72)
-    print(f"topics file:   {args.topics}")
+    print(f"mcat_topics file: {args.mcat_topics}")
     print(f"sample size:   {len(sampled)}")
     print(f"backend:       {args.backend}")
     print(f"model:         {args.model}")
@@ -348,7 +348,7 @@ def main() -> None:
 
     payload = {
         "meta": {
-            "topics_path": args.topics,
+            "mcat_topics_path": args.mcat_topics,
             "backend": args.backend,
             "model": args.model,
             "sample_size": args.sample_size,

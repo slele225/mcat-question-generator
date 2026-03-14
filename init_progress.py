@@ -4,7 +4,7 @@ init_progress.py
 Initialize user progress for the adaptive MCAT study engine.
 
 Reads:
-- topics.json
+- mcat_topics.json
 
 Writes:
 - user_progress.json
@@ -27,7 +27,7 @@ Default progress fields:
 Typical usage:
     python init_progress.py
 
-    python init_progress.py --topics topics.json --output data/user_progress.json
+    python init_progress.py --mcat-topics mcat_topics.json --output data/user_progress.json
 
     python init_progress.py --merge
 """
@@ -48,13 +48,13 @@ from utils import (
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Initialize or merge user progress from topics.json."
+        description="Initialize or merge user progress from mcat_topics.json."
     )
     parser.add_argument(
-        "--topics",
+        "--mcat-topics",
         type=str,
-        default="topics.json",
-        help="Path to topics.json",
+        default="mcat_topics.json",
+        help="Path to mcat_topics.json",
     )
     parser.add_argument(
         "--output",
@@ -109,7 +109,7 @@ def merge_progress(
 def main() -> None:
     args = parse_args()
 
-    topics = load_topics(args.topics)
+    topics = load_topics(args.mcat_topics)
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
 

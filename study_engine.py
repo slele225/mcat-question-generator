@@ -4,7 +4,7 @@ study_engine.py
 Terminal-based adaptive MCAT study engine.
 
 Reads:
-- topics.json
+- mcat_topics.json
 - cleaned question bank JSONL
 - user_progress.json
 
@@ -35,7 +35,7 @@ Adaptive score update logic is implemented in utils.py:
 Typical usage:
     python study_engine.py
 
-    python study_engine.py --topics topics.json \
+    python study_engine.py --mcat-topics mcat_topics.json \
         --bank data/question_bank_clean.jsonl \
         --progress data/user_progress.json
 
@@ -496,7 +496,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Adaptive terminal study engine for a pre-generated MCAT question bank."
     )
-    parser.add_argument("--topics", type=str, default="topics.json", help="Path to topics.json")
+    parser.add_argument("--mcat-topics", type=str, default="mcat_topics.json", help="Path to mcat_topics.json")
     parser.add_argument(
         "--bank",
         type=str,
@@ -540,7 +540,7 @@ def main() -> None:
     args = parse_args()
     rng = random.Random(args.seed)
 
-    topics = load_topics(args.topics)
+    topics = load_topics(args.mcat_topics)
     bank_index = load_bank_index(args.bank)
     progress = load_progress(args.progress)
     progress = ensure_progress_covers_topics(topics, progress)
