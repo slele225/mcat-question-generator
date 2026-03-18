@@ -31,7 +31,13 @@ The pipeline uses a generate–validate–repair loop with configurable quality 
 │       ├── science/   # Science JSONL files
 │       ├── cars/      # CARS JSONL files
 │       ├── checkpoints/
-│       └── failed/
+│       ├── failed/
+│       └── logs/
+├── scripts/
+│   ├── start_vllm.sh      # Start vLLM server (Qwen/Qwen3-32B)
+│   ├── run_pipeline.sh    # Run pipeline, log to data/output/logs/
+│   ├── run_remote_job.sh  # Detached run (survives SSH disconnect)
+│   └── download_results.sh
 └── README.md
 ```
 
@@ -95,10 +101,68 @@ Outputs are written under `data/output/` (see structure above).
 | CARS JSONL     | `data/output/cars/`           |
 | Checkpoints    | `data/output/checkpoints/`     |
 | Failed items   | `data/output/failed/`         |
+| Logs           | `data/output/logs/`           |
 
 ## Switching model backends
 
 In `config.py`, set **BACKEND_TYPE** and **BASE_URL** (and **MODEL_NAME** as needed). The client in `llm_client.py` is OpenAI-compatible, so it works with OpenAI, vLLM, OpenRouter, or any compatible API.
+
+## Running on a remote GPU (vLLM)
+
+You can run the full pipeline on a remote GPU machine over SSH. Once the job is started correctly, **you can disconnect from SSH and turn off your laptop**; the job keeps running on the remote machine.
+
+### 1. SSH in and prepare
+
+```bash
+ssh user@your-gpu-server
+cd /path/to/mcat-question-generator
+uv venv && source .venv/bin/activate
+uv pip install -r requirements.txt
+# Install vLLM on the server if needed: uv pip install vllm
+```
+
+Ensure `data/topics.json` exists on the remote machine.
+
+### 2. Start the vLLM server
+
+In a **tmux or screen session** (so it keeps running after you disconnect):
+
+```bash
+./scripts/start_vllm.sh
+```
+
+This serves `Qwen/Qwen3-32B` on `127.0.0.1:8000` by default. Edit the script or set `VLLM_MODEL`, `VLLM_PORT`, `VLLM_API_KEY` if needed.
+
+### 3. Start the generation job (detached)
+
+In another terminal (or after detaching from tmux), run:
+
+```bash
+./scripts/run_remote_job.sh
+```
+
+This starts the pipeline in the background with `nohup`. Logs go to `data/output/logs/remote_job_*.log`. You can then disconnect from SSH; the job continues.
+
+### 4. Check logs later
+
+Reconnect via SSH and run:
+
+```bash
+tail -f data/output/logs/remote_job_*.log
+```
+
+(Use the actual log filename from the message printed when you started the job.)
+
+### 5. Download results to your laptop
+
+From your **local** machine (not the server):
+
+```bash
+export REMOTE_USER=user REMOTE_HOST=your-gpu-server REMOTE_PATH=/path/to/mcat-question-generator
+./scripts/download_results.sh
+```
+
+Results are copied into `./mcat_results/` by default (set `LOCAL_DIR` to change). You can also use `scp -r user@host:/path/to/repo/data/output ./mcat_results`.
 
 ## Google Colab
 

@@ -9,26 +9,20 @@ import os
 # LLM Configuration
 # ---------------------------------------------------------------------------
 
-# Choose backend: "openai", "vllm", "openrouter", or any OpenAI-compatible API
-BACKEND_TYPE = "openai"  # Options: "openai", "vllm", "openrouter"
+# Backend type:
+# - "vllm" for local / remote vLLM OpenAI-compatible server
+# - "openai" for OpenAI API
+# - "openrouter" for OpenRouter
+BACKEND_TYPE = "vllm"
 
-# Model name (adjust based on your backend)
-MODEL_NAME = "gpt-3.5-turbo"  # For OpenAI
-# MODEL_NAME = "qwen/Qwen2.5-72B-Instruct"  # For vLLM
-# MODEL_NAME = "meta-llama/Llama-2-70b-chat-hf"  # For vLLM
-# MODEL_NAME = "openrouter/anthropic/claude-3.5-sonnet"  # For OpenRouter
+# Strong default Qwen model for a big GPU box
+MODEL_NAME = "Qwen/Qwen3-32B"
 
-# API endpoint (adjust based on your backend)
-# For OpenAI: default is fine
-# For local vLLM: http://localhost:8000/v1
-# For OpenRouter: https://openrouter.ai/api/v1
-BASE_URL = None  # None = use default for the backend
-# BASE_URL = "http://localhost:8000/v1"  # Example for local vLLM
-# BASE_URL = "https://openrouter.ai/api/v1"  # Example for OpenRouter
+# vLLM OpenAI-compatible endpoint
+BASE_URL = "http://localhost:8000/v1"
 
-# API key environment variable name
-# Set this environment variable before running
-API_KEY_ENV_VAR = "OPENAI_API_KEY"  # e.g., OPENAI_API_KEY, VLLM_API_KEY, etc.
+# vLLM usually requires an API key flag; this can be any dummy string
+API_KEY_ENV_VAR = "VLLM_API_KEY"
 
 # Generation parameters
 TEMPERATURE = 0.7
@@ -48,22 +42,24 @@ TOPICS_FILE = "data/topics.json"
 OUTPUT_DIR = "data/output"
 SCIENCE_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "science")
 CARS_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "cars")
+LOG_DIR = os.path.join(OUTPUT_DIR, "logs")
+FAILED_OUTPUT_DIR = os.path.join(OUTPUT_DIR, "failed")
 
 # Generation targets
-SCIENCE_TARGET_PER_TOPIC = 20  # Number of accepted science questions per topic
-CARS_TARGET_PER_TOPIC = 2      # Number of accepted CARS sets per topic
+SCIENCE_TARGET_PER_TOPIC = 20
+CARS_TARGET_PER_TOPIC = 2
 
 # Batch sizes
-SCIENCE_BATCH_SIZE = 5          # Generate 5 science questions at a time
-CARS_PASSAGE_WORDS = 600        # Target passage length in words
-CARS_QUESTIONS_PER_SET = 8      # Number of questions per CARS set
+SCIENCE_BATCH_SIZE = 5
+CARS_PASSAGE_WORDS = 600
+CARS_QUESTIONS_PER_SET = 8
 
 # Attempt limits
-MAX_ATTEMPTS_PER_TOPIC = 10     # Max generation attempts per topic
-MAX_REPAIR_ATTEMPTS = 1         # Max repair attempts per item (validator suggests 1)
+MAX_ATTEMPTS_PER_TOPIC = 10
+MAX_REPAIR_ATTEMPTS = 1
 
 # Duplicate detection
-DUPLICATE_SIMILARITY_THRESHOLD = 0.8  # Threshold for near-duplicate detection
+DUPLICATE_SIMILARITY_THRESHOLD = 0.80
 
 # ---------------------------------------------------------------------------
 # Validation
@@ -72,12 +68,13 @@ DUPLICATE_SIMILARITY_THRESHOLD = 0.8  # Threshold for near-duplicate detection
 # Minimum validation score to accept an item (1-10)
 MIN_ACCEPTABLE_SCORE = 7
 
-# Whether to skip validation (for testing)
+# Whether to skip validation (useful only for testing)
 SKIP_VALIDATION = False
 
 # ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
 
-LOG_LEVEL = "INFO"  # DEBUG, INFO, WARNING, ERROR
-SAVE_FAILED_ITEMS = True  # Save rejected/revised items for inspection
+LOG_LEVEL = "INFO"
+SAVE_FAILED_ITEMS = True
+LOG_FILE = os.path.join(LOG_DIR, "pipeline.log")
