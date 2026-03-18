@@ -36,7 +36,8 @@ The pipeline uses a generate–validate–repair loop with configurable quality 
 ├── scripts/
 │   ├── start_vllm.sh      # Start vLLM server (Qwen/Qwen3-32B)
 │   ├── run_pipeline.sh    # Run pipeline, log to data/output/logs/
-│   ├── run_remote_job.sh  # Detached run (survives SSH disconnect)
+│   ├── run_full_remote.sh # One script: vLLM + pipeline (survives SSH disconnect)
+│   ├── run_remote_job.sh  # Pipeline only (vLLM already running)
 │   └── download_results.sh
 └── README.md
 ```
@@ -123,37 +124,27 @@ uv pip install -r requirements.txt
 
 Ensure `data/topics.json` exists on the remote machine.
 
-### 2. Start the vLLM server
-
-In a **tmux or screen session** (so it keeps running after you disconnect):
+### 2. Run everything (one script)
 
 ```bash
-./scripts/start_vllm.sh
+./scripts/run_full_remote.sh
 ```
 
-This serves `Qwen/Qwen3-32B` on `127.0.0.1:8000` by default. Edit the script or set `VLLM_MODEL`, `VLLM_PORT`, `VLLM_API_KEY` if needed.
+This starts vLLM in the background, waits for it to be ready, then starts the pipeline in the background. Both keep running after you disconnect from SSH. Logs: `data/output/logs/vllm.log` and `data/output/logs/pipeline_*.log`.
 
-### 3. Start the generation job (detached)
+**Alternatively**, start vLLM and the pipeline separately: run `./scripts/start_vllm.sh` in tmux, then in another session run `./scripts/run_remote_job.sh`.
 
-In another terminal (or after detaching from tmux), run:
-
-```bash
-./scripts/run_remote_job.sh
-```
-
-This starts the pipeline in the background with `nohup`. Logs go to `data/output/logs/remote_job_*.log`. You can then disconnect from SSH; the job continues.
-
-### 4. Check logs later
+### 3. Check logs later
 
 Reconnect via SSH and run:
 
 ```bash
-tail -f data/output/logs/remote_job_*.log
+tail -f data/output/logs/pipeline_*.log
 ```
 
-(Use the actual log filename from the message printed when you started the job.)
+(vLLM log: `data/output/logs/vllm.log`.)
 
-### 5. Download results to your laptop
+### 4. Download results to your laptop
 
 From your **local** machine (not the server):
 
