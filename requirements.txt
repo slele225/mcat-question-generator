@@ -1,2 +1,13 @@
-# MCAT project — standard library only; add packages here as needed.
-# Example: requests>=2.28.0
+# Core dependencies
+openai>=1.0.0
+requests>=2.31.0
+
+# Data handling
+jsonlines>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# Optional: for local vLLM inference
+# vllm>=0.3.0  # Uncomment if using vLLM locally

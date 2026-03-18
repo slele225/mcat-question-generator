@@ -1,23 +1,34 @@
-# Virtual environment
+# Python
+__pycache__/
+*.pyc
+*.pyo
 .venv/
 venv/
 env/
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
 *.egg-info/
 .eggs/
-dist/
-build/
 
-# IDE / OS
+# Environment and secrets
+.env
+.env.local
+*.local
+
+# IDE and OS
 .idea/
 .vscode/
 .DS_Store
 Thumbs.db
 
-# Local / secrets (if you add any)
-.env
-*.local
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs and runtime
+data/output/
+output/
+*.log
+*.tmp
+*.temp
+
+# Local API keys / secrets
+secrets.json
+*_secret*
